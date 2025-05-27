@@ -6,6 +6,7 @@ st.write(
 )
 st.image("quality_restoration_20250419210355902.jpeg")
 
+
 st.title("aplikasi sederhana")
 st.header("aplikasi mengecek nilai genap/ganjil")
 angka=st.number_input("tulis sebuah angka:", value=0, step=1)
